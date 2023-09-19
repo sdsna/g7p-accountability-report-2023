@@ -121,7 +121,7 @@ df.columns=cols_data_calc
 df.index.names=['uniqueID']
 
 # create output
-output_name = 'slope_output.csv'
+output_name = 'slope_output'
 output_fp=os.path.join(output_folder, f'{output_name}.csv')
 df.to_csv(output_fp)
 
