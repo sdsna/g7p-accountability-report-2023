@@ -67,6 +67,6 @@ for metric in cols_data:
     calc_pop(metric,'Adult populaiton',df_subset)
 
 # create output
-output_name = 'ownership_ssa_output.csv'
+output_name = 'ownership_ssa_output'
 output_fp=os.path.join(output_folder, f'{output_name}.csv')
 df_subset.to_csv(output_fp, index=False)
