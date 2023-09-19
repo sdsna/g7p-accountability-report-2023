@@ -73,6 +73,6 @@ for metric in metrics:
     calc_ratio(metric,df_subset)
 
 # create output
-output_name = 'ratio_output.csv'
+output_name = 'ratio_output'
 output_fp=os.path.join(output_folder, f'{output_name}.csv')
 df_subset.to_csv(output_fp, index=False)
