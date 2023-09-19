@@ -118,7 +118,7 @@ df = pd.DataFrame.from_dict(data_dict, orient = 'index')
 cols_all = cols_countries + cols_data_calc
 
 df.columns=cols_data_calc
-df.index.names=['uniqueID']
+df.index.names=['Country name']
 
 # create output
 output_name = 'slope_output'
