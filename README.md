@@ -2,7 +2,7 @@
 
 ## G7P Accountability Report 2023
 
-This repo contains the scripts and data outputs used in the G7 Accountability Report 2023 published by TReNDS of SDSN. The link to the report will be available once it is published.
+This repo contains the scripts and data outputs used in the G7 Accountability Report 2023 published by TReNDS of SDSN. Read the full report [here](https://www.sdsntrends.org/research/2023/9/21/accountability-report-2023-g7-partnership-for-womens-digital-financial-inclusion-in-africa).
 
 ## Input Data
 
